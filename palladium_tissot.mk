@@ -44,7 +44,7 @@ BUILD_FINGERPRINT := "xiaomi/tissot/tissot_sprout:8.0.0/OPR1.170623.026/8.1.10:u
 # PalladiumOS Stuffs
 PALLADIUM_BUILD_TYPE := UNOFFICIAL
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.palladium.maintainer=ucoboy
+    ro.palladium.maintainer=Jyjyc
 
 TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 1080
